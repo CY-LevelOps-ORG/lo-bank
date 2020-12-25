@@ -1,1 +1,1 @@
-# django
+# Sample Bank Application
