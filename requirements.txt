@@ -1,5 +1,6 @@
 asgiref==3.3.1
 astroid==2.4.2
+coverage==5.3.1
 Django==3.1.4
 django-cors-headers==3.6.0
 djangorestframework==3.12.2
@@ -13,4 +14,5 @@ pytz==2020.5
 six==1.15.0
 sqlparse==0.4.1
 toml==0.10.2
+unittest-xml-reporting==3.0.4
 wrapt==1.12.1
